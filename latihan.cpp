@@ -7,6 +7,7 @@ int main(){
     string a;
 
     cin >> a;
+/**/
 
     int cek =a.size();
 
@@ -25,7 +26,6 @@ int main(){
     } else{
         cout << "NO";
     }
-
 
     
 }
